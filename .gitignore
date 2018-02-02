@@ -51,6 +51,7 @@ src/oauth/
 src/rebar/
 src/setup/
 src/snappy/
+src/triq/
 tmp/
 
 src/couch/*.o
